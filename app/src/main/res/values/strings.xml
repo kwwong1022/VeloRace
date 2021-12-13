@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VeloRace</string>
+    <string name="title_activity_ride">VeloRace</string>
+    <string name="speed">Speed</string>
+    <string name="default_float">0.0</string>
+    <string name="not_avaliable">N/A</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_ride_time">00 : 00 : 00</string>
+    <string name="default_date">dd, mm</string>
+    <string name="default_time">00 : 00 am</string>
+    <string name="distance">Distance</string>
+    <string name="elevation">Elev</string>
+    <string name="max_elevation">Max. Elev</string>
+    <string name="average_speed">Avg. spd</string>
+    <string name="max_speed">Max. spd</string>
+</resources>
