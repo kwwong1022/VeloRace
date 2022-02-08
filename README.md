@@ -21,21 +21,21 @@ Riding information is divided into two parts:
 Then it shows the current location of the user. Sometimes the cyclist may not know the road ahead. This function combines an accelerometer, a magnetic field sensor, and Google Maps. The map will always be turned to the angle where the user is facing. The user can use it to evaluate the route.
 
 Secondly, the data from the accelerometer was then used to achieve the automatic start and pause function to increase the user experience. Using an accelerometer instead of a GPS can avoid the situation where the bike computer stops processing the user's riding information when the GPS data is not received.
-<br>
+<br><br>
 
 <h2>Location Guidance (Location Services)</h2>
 The second function is location guidance. Sometimes cyclists may not know their location when they go to unfamiliar places. With this function, cyclists can see the street name of their current riding location.
-<br>
+<br><br>
 
 <h2>Torch Function (Light Sensor, Proximity Sensor, Camera Services)</h2>
 The third is the torch function, which uses the flashlight from the camera service, which turns on when the user presses the button. However, it is dangerous for users to operate on the screen when riding. Therefore, by default, the application will automatically check the brightness of the environment and enable a swipe to turn on flashlight function when the brightness is too low.
-<br>
+<br><br>
 
 <h2>Fall Detection (Accelerometer)</h2>
 The fourth function is fall detection, which will trigger the phone call of the phone when the user has fallen during the ride. Users can also set up the emergency contact number in the setting.
 
 At the bottom of the cycling activity, there is a bar that displays the user's current balance point. The color of the bar will change with the angle of inclination. When it reaches a dangerous angle, it will turn to red, and vibrate. The vibration will be transmitted to the user through the handle of the bicycle to warn the user.
-<br>
+<br><br>
 
 <h2>Ride Result (Custom View)</h2>
 The Last function is ride result, which generates a result graphic based on the ride information by using custom view. The result graph contains 2 parts:
