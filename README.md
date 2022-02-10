@@ -1,10 +1,10 @@
 # VeloRace
  
-VeloRace is an android application that allows cyclists to use their mobile phone as a bike computer.
+<p>VeloRace is an android application that allows cyclists to use their mobile phone as a bike computer.</p>
 
-The position of VeloRace is between advanced and professional use. It provides more information than the bike computer app on the market and takes advantage of the larger screens of mobile phones. Different sensors are also used to enhance the user experience significantly.
-<br><br>
-This application now has four main functions:
+<p>The position of VeloRace is between advanced and professional use. It provides more information than the bike computer app on the market and takes advantage of the larger screens of mobile phones. Different sensors are also used to enhance the user experience significantly.</p>
+<br>
+This application has four main functions:
 1. Bike computer to display the user's riding information 
 2. Location guidance 
 3. Torch function 
@@ -22,7 +22,7 @@ Riding information is divided into two parts:
 
 <img src="https://64.media.tumblr.com/08bffff5c402d3459c70873eee398793/669a44cd861964d3-2e/s250x400/c7a4f0ff75e23dadcda36f30e8e05e4142047415.png" width="500px">
 
-<p>Then it shows the current location of the user. Sometimes the cyclist may not know the road ahead. This function combines an accelerometer, a magnetic field sensor, and Google Maps. The map will always be turned to the angle where the user is facing. The user can use it to evaluate the route.</p>
+<p>Then it shows the current location of the user. This function combines an accelerometer, a magnetic field sensor, and Google Maps. The map will always be turned to the angle where the user is facing. The user can use it to evaluate the route.</p>
 
 <img src="https://64.media.tumblr.com/188d392a1905aa4507d7c2c753e31d60/669a44cd861964d3-d0/s250x400/fcfa4a3653544035aca6f1228445521e529b6af8.png" width="500px">
 
