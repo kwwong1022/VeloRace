@@ -4,7 +4,7 @@
 
 <p>The position of VeloRace is between advanced and professional use. It provides more information than the bike computer app on the market and takes advantage of the larger screens of mobile phones. Different sensors are also used to enhance the user experience significantly.</p>
 <br>
-This application has four main functions:<br>
+This application has four core functions:<br>
 1. Bike computer to display the user's riding information <br>
 2. Location guidance <br>
 3. Torch function <br>
